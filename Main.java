@@ -44,11 +44,6 @@ public class Main {
     jFrame.setVisible(true);
   }
 
-  @Override
-  public String toString() {
-    return "Main []";
-  }
-
   public static void main(String[] args) {
     createAndShowGUI();
   }
